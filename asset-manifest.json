@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/perpro-demo/static/css/main.d1297823.chunk.css",
+    "main.js": "/perpro-demo/static/js/main.3d363802.chunk.js",
+    "main.js.map": "/perpro-demo/static/js/main.3d363802.chunk.js.map",
+    "runtime-main.js": "/perpro-demo/static/js/runtime-main.341c48d7.js",
+    "runtime-main.js.map": "/perpro-demo/static/js/runtime-main.341c48d7.js.map",
+    "static/js/2.4a4ca126.chunk.js": "/perpro-demo/static/js/2.4a4ca126.chunk.js",
+    "static/js/2.4a4ca126.chunk.js.map": "/perpro-demo/static/js/2.4a4ca126.chunk.js.map",
+    "index.html": "/perpro-demo/index.html",
+    "precache-manifest.4b5eaddc3f6b914f55ccf66f7bbcb534.js": "/perpro-demo/precache-manifest.4b5eaddc3f6b914f55ccf66f7bbcb534.js",
+    "service-worker.js": "/perpro-demo/service-worker.js",
+    "static/css/main.d1297823.chunk.css.map": "/perpro-demo/static/css/main.d1297823.chunk.css.map",
+    "static/js/2.4a4ca126.chunk.js.LICENSE.txt": "/perpro-demo/static/js/2.4a4ca126.chunk.js.LICENSE.txt",
+    "static/media/logo-tr.png": "/perpro-demo/static/media/logo-tr.63814e1d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.341c48d7.js",
+    "static/js/2.4a4ca126.chunk.js",
+    "static/css/main.d1297823.chunk.css",
+    "static/js/main.3d363802.chunk.js"
+  ]
+}
