@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e98a19a9a086727e42a8517bf309473e",
+    "revision": "bf537cfc5059bdee027cb739c88eaa09",
     "url": "/perpro-demo/index.html"
   },
   {
-    "revision": "9a7d1570089b82ce290d",
+    "revision": "c8f70cd5e084816181b2",
     "url": "/perpro-demo/static/css/main.d1297823.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/perpro-demo/static/js/2.4a4ca126.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a7d1570089b82ce290d",
-    "url": "/perpro-demo/static/js/main.28626213.chunk.js"
+    "revision": "c8f70cd5e084816181b2",
+    "url": "/perpro-demo/static/js/main.89cd9a36.chunk.js"
   },
   {
     "revision": "82432a9f3647fc5c47a1",
