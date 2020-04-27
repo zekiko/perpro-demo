@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/perpro-demo/static/css/main.d1297823.chunk.css",
-    "main.js": "/perpro-demo/static/js/main.89cd9a36.chunk.js",
-    "main.js.map": "/perpro-demo/static/js/main.89cd9a36.chunk.js.map",
+    "main.js": "/perpro-demo/static/js/main.b945305e.chunk.js",
+    "main.js.map": "/perpro-demo/static/js/main.b945305e.chunk.js.map",
     "runtime-main.js": "/perpro-demo/static/js/runtime-main.341c48d7.js",
     "runtime-main.js.map": "/perpro-demo/static/js/runtime-main.341c48d7.js.map",
     "static/js/2.4a4ca126.chunk.js": "/perpro-demo/static/js/2.4a4ca126.chunk.js",
     "static/js/2.4a4ca126.chunk.js.map": "/perpro-demo/static/js/2.4a4ca126.chunk.js.map",
     "index.html": "/perpro-demo/index.html",
-    "precache-manifest.f7b1454c43c2757f45d08281301491ef.js": "/perpro-demo/precache-manifest.f7b1454c43c2757f45d08281301491ef.js",
+    "precache-manifest.a6326f48f53b76fec8d8721993dbc98e.js": "/perpro-demo/precache-manifest.a6326f48f53b76fec8d8721993dbc98e.js",
     "service-worker.js": "/perpro-demo/service-worker.js",
     "static/css/main.d1297823.chunk.css.map": "/perpro-demo/static/css/main.d1297823.chunk.css.map",
     "static/js/2.4a4ca126.chunk.js.LICENSE.txt": "/perpro-demo/static/js/2.4a4ca126.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.341c48d7.js",
     "static/js/2.4a4ca126.chunk.js",
     "static/css/main.d1297823.chunk.css",
-    "static/js/main.89cd9a36.chunk.js"
+    "static/js/main.b945305e.chunk.js"
   ]
 }
